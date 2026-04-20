@@ -22,8 +22,8 @@ The analysis includes structured tables, calculated metrics, and visual charts t
 ## 📁 Dataset Profile
 
 * **Name:** AI Jobs Dataset
-* **Source:** Provided dataset (used in Cognos)
-* **Format:** CSV / Excel
+* **Source:** Kaggle
+* **Format:** CSV 
 * **Columns:**
 
   * Employee_ID
